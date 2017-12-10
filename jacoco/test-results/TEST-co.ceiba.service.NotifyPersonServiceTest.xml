@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.ceiba.service.NotifyPersonServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-10T18:53:32" hostname="FERNEY-ESCOBAR" time="0.032">
+  <properties/>
+  <testcase name="notifyTest" classname="co.ceiba.service.NotifyPersonServiceTest" time="0.032"/>
+  <system-out><![CDATA[Email send succeful with message Welcom Ceiba
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
